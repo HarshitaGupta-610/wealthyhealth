@@ -1,5 +1,6 @@
 # WealthyHealth
 
+<<<<<<< HEAD
 A preventive-health platform built around the theme: **"Increasing India's Health-Adjusted Life Expectancy (HALE) through self-driven preventive actions."**
 
 ## 🚀 Features
@@ -141,3 +142,8 @@ The `dist` folder will contain the production-ready files that can be deployed t
 ---
 
 Copyright © 2026 WealthyHealth. All rights reserved.
+=======
+
+
+A youth-focused platform that turns daily healthy choices into a fun, personalised, self-driven routine — adding healthy years to life.
+>>>>>>> e94f7c3d8dab00033e3e614f74a381eab7fcd642
